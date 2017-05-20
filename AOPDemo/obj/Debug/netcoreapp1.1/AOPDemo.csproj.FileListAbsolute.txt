@@ -1,0 +1,10 @@
+/Users/ekidane/Projects/AOPDemo/AOPDemo/bin/Debug/netcoreapp1.1/AOPDemo.deps.json
+/Users/ekidane/Projects/AOPDemo/AOPDemo/bin/Debug/netcoreapp1.1/AOPDemo.runtimeconfig.json
+/Users/ekidane/Projects/AOPDemo/AOPDemo/bin/Debug/netcoreapp1.1/AOPDemo.runtimeconfig.dev.json
+/Users/ekidane/Projects/AOPDemo/AOPDemo/obj/Debug/netcoreapp1.1/AOPDemo.csprojResolveAssemblyReference.cache
+/Users/ekidane/Projects/AOPDemo/AOPDemo/obj/Debug/netcoreapp1.1/AOPDemo.csproj.CoreCompileInputs.cache
+/Users/ekidane/Projects/AOPDemo/AOPDemo/obj/Debug/netcoreapp1.1/AOPDemo.AssemblyInfo.cs
+/Users/ekidane/Projects/AOPDemo/AOPDemo/bin/Debug/netcoreapp1.1/AOPDemo.dll
+/Users/ekidane/Projects/AOPDemo/AOPDemo/bin/Debug/netcoreapp1.1/AOPDemo.pdb
+/Users/ekidane/Projects/AOPDemo/AOPDemo/obj/Debug/netcoreapp1.1/AOPDemo.dll
+/Users/ekidane/Projects/AOPDemo/AOPDemo/obj/Debug/netcoreapp1.1/AOPDemo.pdb
